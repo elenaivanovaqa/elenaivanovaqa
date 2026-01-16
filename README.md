@@ -24,7 +24,11 @@
 
 
 
+
+
 ### 📚 Обучение
+<img height="550" src="media/diploma_ru.jpg"/>
+
 <!--
 **elenaivanovaqa/elenaivanovaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
