@@ -25,7 +25,7 @@
 
 
 ### 📚 Обучение
-<img height="550" src="media/diploma_ru.jpg"/>
+|<img height="550" src="media/diploma_ru.jpg"/>|<img height="550" src="media/Letter.png"/>|
 
 
 
